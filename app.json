@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "template-rn-r47",
+    "slug": "template-rn-r47",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
